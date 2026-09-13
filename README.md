@@ -45,16 +45,6 @@ I'm a BCA student at **Tribhuvan University** interested in building practical w
 
 ## 🚀 Featured Projects
 
-### 🔐 FaceUnlock
-
-A Windows authentication project exploring secure mobile-assisted computer unlocking.
-
-**Tech:** Python · Flask · Windows · Networking
-
-[View Repository →](https://github.com/RudraBahadurKarki/FaceUnlock)
-
----
-
 ### 🌐 Web Tech Project
 
 A web development project created while learning and practicing front-end web technologies.
