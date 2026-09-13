@@ -1,11 +1,12 @@
-╔══════════════════════════════════════════╗
-║                                          ║
-║       RUDRA BAHADUR KARKI                ║
-║       BCA STUDENT • FULL-STACK DEV       ║
-║                                          ║
-║    PHP • Laravel • JavaScript • Python   ║
-║                                          ║
-╚══════════════════════════════════════════╝
+<div align="center">
+
+# 👋 Hi, I'm Rudra Bahadur Karki
+
+### BCA Student · Aspiring Full-Stack Developer
+
+**PHP · Laravel · JavaScript · Python · MySQL**
+
+</div>
 
 I'm a BCA student at **Tribhuvan University** who enjoys building practical web applications and continuously improving my development skills.
 
