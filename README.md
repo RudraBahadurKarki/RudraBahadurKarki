@@ -8,13 +8,12 @@
 
 </div>
 
-I'm a BCA student at **Tribhuvan University** who enjoys building practical web applications and continuously improving my development skills.
+I'm a BCA student at **Tribhuvan University** interested in building practical web applications and continuously improving my development skills.
 
-* 🔭 Building and improving practical web applications
 * 🌱 Currently learning **Laravel, JavaScript & Full-Stack Development**
 * 💻 Working with **PHP, MySQL, HTML, CSS & JavaScript**
+* 🚀 Learning through hands-on projects and experimentation
 * 🧠 Interested in **Web Development, Software Engineering & Problem Solving**
-* 🚀 Learning by building real projects and experimenting with new technologies
 * 🎯 Working toward becoming a strong **Full-Stack Developer**
 
 ---
@@ -46,43 +45,27 @@ I'm a BCA student at **Tribhuvan University** who enjoys building practical web 
 
 ## 🚀 Featured Projects
 
-### 🛍️ ScentHub
+### 🔐 FaceUnlock
 
-**Online Fragrance Store & Management System**
+A Windows authentication project exploring secure mobile-assisted computer unlocking.
 
-A full-stack e-commerce and management system developed as a BCA project.
+**Tech:** Python · Flask · Windows · Networking
 
-**Tech:** PHP • MySQL • JavaScript • Bootstrap • HTML • CSS
-
-**Features:**
-
-* 🛒 Product browsing and shopping cart
-* 👤 User authentication and account management
-* 📦 Order management
-* ⭐ Product reviews and ratings
-* 🏷️ Categories and brands
-* 📊 Administrative dashboard
-* 💳 Payment workflow support
+[View Repository →](https://github.com/RudraBahadurKarki/FaceUnlock)
 
 ---
 
-### 🐾 Pet Adoption Management System
+### 🌐 Web Tech Project
 
-A web-based platform designed to connect pet adopters, shelters and volunteers.
+A web development project created while learning and practicing front-end web technologies.
 
-**Tech:** PHP • MySQL • HTML • CSS • JavaScript
+**Tech:** HTML · CSS · JavaScript
 
-**Focus:** User management • Pet listings • Adoption workflow • Management features
+[View Repository →](https://github.com/RudraBahadurKarki/web-tech-project)
 
 ---
 
-### 🩺 Diabetes Prediction System
-
-A machine-learning based application developed with Python and deployed using Django.
-
-**Tech:** Python • Machine Learning • Django
-
-**Focus:** Data processing • Prediction model • Web deployment
+> 🚧 More projects will be added as I continue building and improving.
 
 ---
 
@@ -98,8 +81,6 @@ MySQL & APIs
 JavaScript
    ↓
 Full-Stack Development
-   ↓
-MERN Stack
 ```
 
 I'm currently focusing on strengthening my fundamentals and building larger applications step by step.
@@ -109,27 +90,11 @@ I'm currently focusing on strengthening my fundamentals and building larger appl
 ## 📚 What I'm Working On
 
 * 🔥 Improving my Laravel skills
-* 🌐 Building responsive and practical web applications
+* 🌐 Building responsive web applications
 * 🧩 Understanding backend architecture and databases
 * 🔧 Improving my Git & GitHub workflow
-* 🚀 Working toward full-stack development
-* 💡 Turning academic projects into better real-world projects
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.shion.dev/api?username=RudraBahadurKarki&theme=dark&hide_border=true&include_all_commits=false&count_private=false" height="180"/>
-
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=RudraBahadurKarki&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" height="180"/>
-
-<br>
-
-<img src="https://streak-stats.demolab.com/?user=RudraBahadurKarki&theme=dark&hide_border=true" />
-
-</div>
+* 🚀 Building toward full-stack development
+* 💡 Turning academic projects into practical applications
 
 ---
 
@@ -150,7 +115,5 @@ I'm currently focusing on strengthening my fundamentals and building larger appl
 ### 💡 Learn • Build • Improve • Repeat.
 
 *Thanks for visiting my profile!*
-
-![Profile Views](https://komarev.com/ghpvc/?username=RudraBahadurKarki\&style=flat-square\&color=blue)
 
 </div>
